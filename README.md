@@ -1,4 +1,4 @@
-# ⚡ Francisco José Rodríguez  
+# ⚡ Francisco José Rodríguez Martínez  
 **Desarrollador de Software · Front-End & Full Stack**
 
 <p align="left">
@@ -13,6 +13,7 @@
 ---
 
 ## 🚀 Sobre mí  
+
 Desarrollador de software y Full Stack web, con experiencia trabajando con una amplia variedad de tecnologías web. Aun así, mi especialidad y mi principal enfoque es en el desarrollo Front-End.
 
 Desde muy joven he estado explorando y experimentando con ordenadores y dispositivos móviles, indagando tanto en su funcionamiento a nivel de software como de hardware. A lo largo de los años he aprendido mucho “cacharreando” y resolviendo problemas por mí mismo, experiencia que ha reforzado mi curiosidad y mis habilidades técnicas.
