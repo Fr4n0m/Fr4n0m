@@ -44,10 +44,10 @@ WordPress · Elementor · GraphQL · Zod · i18n · Figma · MCP
 https://github.com/Fr4n0m
 
 🔗 **Portfolio:**  
-https://professional-portfolio-nine.vercel.app/
+https://codebyfran.es
 
 🔗 **CV:**  
-https://cv-web-smoky.vercel.app/
+https://cv.codebyfran.es
 
 ---
 
