@@ -27,16 +27,16 @@ Busco seguir creciendo profesionalmente, perfeccionando mi atención al detalle 
 ## 👨‍💻 Tecnologías principales  
 
 ### **Front-End**  
-React · Next.js · Astro · Tailwind CSS · Motion · GSAP
+React · Next.js · Astro · Tailwind CSS · GSAP
 
 ### **Back-End**  
-Node.js · Express · Deno · Supabase · MongoDB
+Node.js · Express · MySQL · Supabase · MongoDB
 
 ### **Herramientas**  
-Git · GitHub · Docker · Vite · PM2 · Nginx · Vercel  
+Git · GitHub · Docker · Vite · Vercel  
 
 ### **Otras**  
-WordPress · Elementor · GraphQL · Zod · i18n · Figma · MCP  
+WordPress · Elementor · Zod · i18n · Figma · MCP  
 
 ---
 
